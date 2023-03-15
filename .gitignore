@@ -31,3 +31,5 @@ build/
 .vscode/
 /.mvn/
 /mvnw
+!/src/main/java/com/kuaishou/oco/lever/dal/entity/commodityCard/model/
+!/src/main/java/com/kuaishou/oco/lever/dal/entity/commodityCard/model/
